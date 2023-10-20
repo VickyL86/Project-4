@@ -9,3 +9,6 @@ The project explores a synthetic dataset of 180,000 rows of data. Models include
 Data loaded into SQL PostgreSQL - schema & database design. 
 
 Sales prediction data loaded and featured in Kaggle ntbk @ https://www.kaggle.com/code/vickyl86/sales-model
+
+Additional folder: First_set_analysis - exploration of a data set initially chosen for the analysis - number of features and limited usability as explored in the notebook resulted in the team deciding to switch the dataset to the set ulimately found in the Resources folder.   
+
